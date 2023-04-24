@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\calvi\Downloads\Prin of Prog Lang\HW 6 Ada Assignment\default.gpr
+20221129201046 381d32bf1459088a915d6aa29f978769
+[BOUND OBJECT FILES]
+C:\Users\calvi\Downloads\Prin of Prog Lang\HW 6 Ada Assignment\obj\assgn.o
+C:\Users\calvi\Downloads\Prin of Prog Lang\HW 6 Ada Assignment\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\calvi\Downloads\Prin of Prog Lang\HW 6 Ada Assignment\obj\
+-LC:\Users\calvi\Downloads\Prin of Prog Lang\HW 6 Ada Assignment\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
